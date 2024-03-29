@@ -1,2 +1,0 @@
-# FlindersHomework
-这是我在Flinders大学第一学期的部分课程作业
