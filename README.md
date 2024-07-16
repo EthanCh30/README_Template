@@ -8,7 +8,7 @@ A full-stack Airbnb clone application built with React, Tailwind, Prisma, MongoD
 
 Here's a glimpse of the Website, highlighting its features and aesthetics.
 
-![Image text]()
+
 
 Main view of the Website
 
